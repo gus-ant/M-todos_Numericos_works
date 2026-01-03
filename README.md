@@ -1,6 +1,8 @@
 # Métodos Numéricos com Python | UnB 🎓
 
-Este repositório centraliza meus estudos, implementações e relatórios desenvolvidos para a disciplina de **Métodos Numéricos** na Universidade de Brasília. O foco do projeto é a resolução de problemas matemáticos complexos através de algoritmos computacionais e análise teórica.
+<img src="https://github.com/gus-ant/M-todos_Numericos_works/blob/main/metodos.png"></img>
+
+Este repositório centraliza meus estudos, implementações e relatórios desenvolvidos para a disciplina de **Métodos Numéricos** na Universidade de Brasília. O foco do repositório é o compartilhamento dos trabalhos que desenvolvi durante a matéria.
 
 ---
 
